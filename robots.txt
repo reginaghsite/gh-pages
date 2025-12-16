@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reginagh.com.br/sitemap.xml
